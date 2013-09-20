@@ -10,3 +10,4 @@ GetPlayerNumber(player_name)
 	FileDelete, %MainDir%\number2.txt
 	return number2
 }
+;Hallo
