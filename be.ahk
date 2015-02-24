@@ -5,4 +5,5 @@ IfNotExist, %MainDir%
 FileInstall, einzelteile/API.dll, %MainDir%/API.dll, 1
 FileCopy, einzelteile/API.dll, %MainDir%/API.dll
 #Include einzelteile/API.ahk
+#Include einzelteile/UrlDownloadToVar.ahk
 #Include einzelteile/getplayernumber.ahk
