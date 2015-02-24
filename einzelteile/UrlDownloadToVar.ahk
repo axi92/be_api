@@ -1,3 +1,4 @@
+; http://www.autohotkey.com/board/topic/9529-urldownloadtovar/page-7
 UrlDownloadToVar(URL,Charset="",URLCodePage="",Proxy="",ProxyBypassList="",Cookie="",Referer="",UserAgent="",EnableRedirects="",Timeout=-1)
   {
 	ComObjError(0)  
